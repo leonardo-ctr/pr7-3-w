@@ -10,6 +10,8 @@ if (x == 200):#if declara que x es igual a 200
     print("x =200")#print imprime que x es igual a 200
 else:#ejecuta ambas partes, la verdadera y la fasa
     print("x > y")#define que x es menor que y
-  ![image](https://github.com/user-attachments/assets/28fbd1dd-9894-43eb-85ff-07ad49863442)
-  ![image](https://github.com/user-attachments/assets/f886a689-4a22-4122-8a27-7fedd9131947)
+![image](https://github.com/user-attachments/assets/92af358c-e8fc-4479-b9d8-d64331a7b2ff)
+![image](https://github.com/user-attachments/assets/288cfb44-bdac-4156-86f3-72281a1a51c6)
+
+
 
